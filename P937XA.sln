@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P937XA_Api", "P9374A_Api\P937XA_Api.csproj", "{DBF379FC-2A02-40D1-B273-0294897B433A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9374ATesterApp", "P9373ATesterApp\P9374ATesterApp.csproj", "{40C837CA-F574-44D5-A5EB-B679310BA044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBF379FC-2A02-40D1-B273-0294897B433A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF379FC-2A02-40D1-B273-0294897B433A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF379FC-2A02-40D1-B273-0294897B433A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF379FC-2A02-40D1-B273-0294897B433A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C837CA-F574-44D5-A5EB-B679310BA044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C837CA-F574-44D5-A5EB-B679310BA044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C837CA-F574-44D5-A5EB-B679310BA044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C837CA-F574-44D5-A5EB-B679310BA044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1E527C4-A4F1-4419-A2E1-6F84F1F368A5}
+	EndGlobalSection
+EndGlobal
